@@ -4,8 +4,6 @@
 
 ![screely-1668830815684](https://user-images.githubusercontent.com/5871075/202835668-2e822420-d032-412f-94e7-84912204a6fe.png)
 
-[Click Here to Demo](https://jalonlewis.github.io/recipe-tracking-app/)
-
 </div>
 
 ## Description
